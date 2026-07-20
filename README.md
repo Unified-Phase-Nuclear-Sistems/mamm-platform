@@ -23,7 +23,7 @@ The complete technical specification is publicly available for independent verif
 | Platform | Link |
 |----------|------|
 | **Zenodo (DOI)** | [10.5281/zenodo.21446843](https://doi.org/10.5281/zenodo.21446843) |
-| **Internet Archive** | [archive.org/details/mamm-26-62](https://archive.org/details/mamm-26-62) *(actualice con su enlace real)* |
+| **Internet Archive** | [archive.org/details/english-master-document.-mamm-tfcp-ts-001](https://archive.org/details/english-master-document.-mamm-tfcp-ts-001) |
 | **arXiv** | [arxiv.org](https://arxiv.org) *(en moderación)* |
 
 ---
